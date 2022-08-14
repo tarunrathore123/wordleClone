@@ -45,3 +45,11 @@
     }
   }
 }
+
+.guess {
+  .guess_tile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
